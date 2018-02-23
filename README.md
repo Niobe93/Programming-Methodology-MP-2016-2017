@@ -5,15 +5,15 @@ Hey there!
 These are my laboratory deliveries which I presented for my evaluation of the subject. 
 Some of the knowdledge that you can find in here are : 
 
-**Foundations of the Object Oriented Paradigm**
-**Inheritance**
-**Polymorphism**
-**Interfaces**
-**Foundations of UML and design, implementation and documentation guidelines**
-**Some basic Data Structures as lists, stacks, queues**
-**Some basic search algorithms**
-**Management of runtime errors-exceptions **
-**Persistence, serialization, input/output**
-**Introduction to Multi-Threading Programming**
+**Foundations of the Object Oriented Paradigm**<br />
+**Inheritance**<br />
+**Polymorphism**<br />
+**Interfaces**<br />
+**Foundations of UML and design, implementation and documentation guidelines**<br />
+**Some basic Data Structures as lists, stacks, queues**<br />
+**Some basic search algorithms**<br />
+**Management of runtime errors-exceptions**<br />
+**Persistence, serialization, input/output**<br />
+**Introduction to Multi-Threading Programming**<br />
 
-__**Please be aware that it's not allowed to copy code in university projects. Teachers will pass severe controls of plagiarism and you can get in serious trouble if you get caught.**__
+# __**Please be aware that it's not allowed to copy code in university projects. Teachers will pass severe controls of plagiarism and you can get in serious trouble if you get caught.**__
